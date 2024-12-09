@@ -1,3 +1,18 @@
+# THIS IS THE OLD VERSION, not our final submission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import numpy as np
 import random
 
